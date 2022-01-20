@@ -1,5 +1,5 @@
 # Facebook-Jail-India
-"Facebook Jail" Is a solo Facebook accounts hacking tool. Very fast Facebook cloning/hacking tool ever supports only India facebook IDs. If you need a tool based on your country, then follow me & message in private: https://facebook.com/josifkhangg
+"Facebook Jail" Is a solo Facebook accounts hacking tool. Very fast Facebook cloning/hacking tool ever supports only India facebook IDs. If you need a tool based on your country, then follow me & message in private: https://facebook.com/josif404k
 
 
 # Warning
@@ -27,11 +27,6 @@ Download zip or git clone link:<br/>
 
 <br/>
 <br/><b>Send Issues</b>: <a href="https://facebook.com/josifkhangg">Click Here</a><br/><br/>
-<br/><a href="https://facebook.com/109845683903349">Follow</a><b>  Official Page |</b>
-<br/><a href="https://github.com/josifkhan">Follow</a><b>  Github |</b>
-<br/><a href="https://facebook.com/groups/437537707116624/">Join In</a><b>  Official Group |</b>
-<br/><a href="https://t.me/termuxbangla">Join In</a><b>  Telegram Group|</b>
-<br/><a href="https://t.me/hacker101community">Join In</a><b>  Telegram Channel|</b><br/><br/>
-   
-
-
+ - <a href="https://github.com/josifkhan"><img src="https://img.shields.io/badge/Follow Us-GitHub Repo-orange"/></a>
+           - <a href="https://t.me/hacker101community"><img src="https://img.shields.io/badge/Subscribe-Telegram Channel-red"/></a>
+      - <a href="https://t.me/termuxbangla"><img src="https://img.shields.io/badge/Join In-Telegram Group-green"/></a>
