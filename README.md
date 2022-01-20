@@ -26,7 +26,7 @@ Download zip or git clone link:<br/>
 >> <b>Video Tutorial</b> : <a href="https://youtu.be/aZz0AGzavOo">Click Here</a><br/>
 
 <br/>
-<br/><b>Send Issues</b>: <a href="https://facebook.com/josifkhangg">Click Here</a><br/><br/>
+<br/><b>Send Issues</b>: <a href="https://facebook.com/josif404k">Click Here</a><br/><br/>
  - <a href="https://github.com/josifkhan"><img src="https://img.shields.io/badge/Follow Us-GitHub Repo-orange"/></a>
            - <a href="https://t.me/hacker101community"><img src="https://img.shields.io/badge/Subscribe-Telegram Channel-red"/></a>
       - <a href="https://t.me/termuxbangla"><img src="https://img.shields.io/badge/Join In-Telegram Group-green"/></a>
